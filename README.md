@@ -1,7 +1,7 @@
 
 # Insurance-Dashboard (Prism Insurance Pvt. Ltd.)
 
-### Dashboard Link :https://suraj-shukla45.github.io/Insurance-Data-Analysis-PowerBI/
+### Dashboard Link :https://suraj-shukla45.github.io/Insurance-Data-Analysis-Power-BI-/
 
 ## Problem Statement
 
