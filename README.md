@@ -42,7 +42,7 @@ Also, since around 42% of policies are inactive, they should work on renewal and
 
 # Snapshot of Dashboard
 
-<img width="1584" height="859" alt="Image" src="https://github.com/user-attachments/assets/99252ad7-5d57-472b-8f2a-7828eb801497" />
+<img width="1540" height="795" alt="Image" src="https://github.com/user-attachments/assets/f3236609-e085-4967-98e7-5e745dd92e57" />
 # Insights
 
 A single page report was created on Power BI Desktop and then published to Power BI Service.
